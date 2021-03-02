@@ -1,4 +1,4 @@
-(ns hello.core
+(ns zodiac.core
   (:gen-class)
   (:require [java-time :as jt]))
 
